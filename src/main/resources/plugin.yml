@@ -1,0 +1,6 @@
+name: ShootingHelper
+version: "1.0.0"
+api: ["1.0.0"]
+author: Scallop
+description: ShootingHelper
+main: cn.yescallop.shootinghelper.ShootingHelper
